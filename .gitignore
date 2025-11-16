@@ -1,0 +1,32 @@
+# C++ compiled files
+*.o
+*.out
+*.exe
+threadpool
+test_auto
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE files
+.vscode/
+.idea/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Core dumps
+core
+core.*
+
+# Archives
+*.tar.gz
+*.zip
+
+# Test outputs
+test_output/
+*.log
